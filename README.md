@@ -1,6 +1,6 @@
 # The Legend of Chenzhizhen
 
-## Words Written in the Beginning
+## Words Written in The Beginning
 
 This is the legend of chenzhizhen, a great adventurous man.   
 His legendary deeds were so brilliant that the sun was eclipsed.   
@@ -12,7 +12,5 @@ If you like it or have any issues, be free to contact us.
 ## The Author Team(IN NO PARTICULAR ORDER)
 
 ### weilinxuan : OIer
-
 ### luosiyuan : OIer
-
 ### lijunhan : OIer
