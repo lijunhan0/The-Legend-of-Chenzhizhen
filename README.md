@@ -1,4 +1,8 @@
 # The-Legend-of-Chenzhizhen
+
+# Words Written in the Beginning
+
+This is the legend of chenzhizhen, a great adventurous man.   
 His legendary deeds were so brilliant that the sun was eclipsed.   
 We all eulogize him, praise him, as he is the sun of our computer room!
 
