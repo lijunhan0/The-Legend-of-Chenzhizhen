@@ -1,4 +1,4 @@
-# The-Legend-of-Chenzhizhen
+# The Legend of Chenzhizhen
 
 ## Words Written in the Beginning
 
