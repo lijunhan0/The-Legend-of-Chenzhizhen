@@ -11,7 +11,7 @@ If you like it or have any issues, be free to contact us.
 
 ## The Author Team(IN NO PARTICULAR ORDER)
 
-### weilinxuan : OIer
-### luosiyuan : OIer
-### lijunhan : OIer
-### guoyuhao : OIer
+- weilinxuan : OIer
+- luosiyuan : OIer
+- lijunhan : OIer
+- gyh : OIer
